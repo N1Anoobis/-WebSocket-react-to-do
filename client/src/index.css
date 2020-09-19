@@ -87,3 +87,14 @@ p {
   align-items: center;
   border-bottom: 1px dashed rgb(83, 83, 83);
 }
+
+.input {
+  background-color: transparent;
+  border: 0;
+  color: #fff;
+  font-size: 18px;
+}
+
+.input:focus {
+  outline: none;
+}
